@@ -1,2 +1,2 @@
-# practice
-my first repository
+Notes about handson-ml
+To write down and remember thoughts later.
